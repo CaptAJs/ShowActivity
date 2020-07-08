@@ -1,0 +1,62 @@
+.name {
+  font-size: 25px;
+  font-family: cursive;
+  font-style: inherit;
+  color: #1295d7;
+}
+.Background {
+  position: relative;
+  background: white;
+  background-size: cover;
+  background-position: center;
+  height: 225vh;
+  margin-top: -5px;
+  margin-bottom: -50px;
+}
+.Buttons {
+  display: flex;
+  flex: flex-wrap;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 8px;
+  cursor: pointer;
+  /* border: none;
+  color: white;
+  background-color: #1295d7;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  
+  
+  width: 90px;
+  height: 20px;
+  line-height: 0px;
+  white-space: nowrap; */
+}
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+.d-flex {
+  display: inline-flex;
+  flex: wrap;
+}
+.userCard {
+  display: inline-block;
+
+  padding: 5px;
+  margin: 15px;
+  background-color: "white";
+  cursor: "pointer";
+  text-align: "center";
+}
+
+.toggle {
+  text-align: center;
+  padding: 20px;
+  margin: 30px;
+}
