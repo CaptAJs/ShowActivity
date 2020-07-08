@@ -77,7 +77,7 @@ class User extends Component {
         <div> {user} </div>{" "}
       </div>
     );
-    return <div className="sm-lg-md-xs">{data}</div>;
+    return <div className="row sm-lg-md-xs">{data}</div>;
   }
 }
 export default User;
